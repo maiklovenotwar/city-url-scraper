@@ -1,0 +1,15 @@
+# Virtuelle Umgebungen
+.venv/
+
+# Build-/Distributions-Artefakte
+build/
+dist/
+*.egg-info/
+
+# Laufzeit-Artefakte
+output/
+logs/
+
+# Python-Cache
+__pycache__/
+*.py[cod]

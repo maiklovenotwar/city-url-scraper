@@ -1,0 +1,548 @@
+[
+  {
+    "city":"Cluj",
+    "official_url":"https:\/\/reismonkey.nl\/blogs\/news\/cluj-napoca-roemenie",
+    "status":"NOT_FOUND",
+    "notes":"Best score below threshold: 0.60"
+  },
+  {
+    "city":"Klagenfurt",
+    "official_url":"https:\/\/www.klagenfurt.at\/",
+    "status":"OK",
+    "notes":"Source: Wikidata"
+  },
+  {
+    "city":"Stockholm",
+    "official_url":"https:\/\/start.stockholm\/",
+    "status":"OK",
+    "notes":"Source: Wikidata"
+  },
+  {
+    "city":"Valencia",
+    "official_url":"https:\/\/www.alcaldiadevalencia.gob.ve\/",
+    "status":"OK",
+    "notes":"Source: Wikidata"
+  },
+  {
+    "city":"Madrid",
+    "official_url":"https:\/\/www.madrid.com\/",
+    "status":"NOT_FOUND",
+    "notes":"Best score below threshold: 0.55"
+  },
+  {
+    "city":"Mannheim",
+    "official_url":"https:\/\/www.mannheim.de\/de",
+    "status":"OK",
+    "notes":"Source: Wikidata"
+  },
+  {
+    "city":"Sonderborg",
+    "official_url":"https:\/\/www.xnxx.com\/search\/bokep",
+    "status":"NOT_FOUND",
+    "notes":"Best score below threshold: 0.35"
+  },
+  {
+    "city":"Valladolid",
+    "official_url":"https:\/\/www.valladolid.es\/en",
+    "status":"OK",
+    "notes":"Source: Search, Score=1.00"
+  },
+  {
+    "city":"Vitoria",
+    "official_url":"https:\/\/www.vitoria.com\/",
+    "status":"NOT_FOUND",
+    "notes":"Best score below threshold: 0.55"
+  },
+  {
+    "city":"Zaragoza",
+    "official_url":"https:\/\/www.zaragoza.es\/sede\/",
+    "status":"OK",
+    "notes":"Source: Wikidata"
+  },
+  {
+    "city":"Helsinki",
+    "official_url":"https:\/\/www.hel.fi\/sv",
+    "status":"OK",
+    "notes":"Source: Wikidata"
+  },
+  {
+    "city":"Malmo",
+    "official_url":"https:\/\/malmo.se\/",
+    "status":"OK",
+    "notes":"Source: Search, Score=1.00"
+  },
+  {
+    "city":"Helsinborg",
+    "official_url":null,
+    "status":"NOT_FOUND",
+    "notes":"No candidate passed validation."
+  },
+  {
+    "city":"Seville",
+    "official_url":"https:\/\/sedo.com\/search\/details\/?partnerid=324561&language=nl&domain=seville.eu&origin=sales_lander_15&utm_medium=Parking&utm_campaign=offerpage",
+    "status":"NOT_FOUND",
+    "notes":"Best score below threshold: 0.00"
+  },
+  {
+    "city":"Barcelona",
+    "official_url":"https:\/\/www.barcelona.cat\/ca",
+    "status":"OK",
+    "notes":"Source: Wikidata"
+  },
+  {
+    "city":"Eilat",
+    "official_url":"https:\/\/eilat.de\/en-gb",
+    "status":"MULTIPLE",
+    "notes":"Source: Search, Multiple good candidates, best score=0.80, second=0.70"
+  },
+  {
+    "city":"Espoo",
+    "official_url":"https:\/\/www.espoo.fi\/fi",
+    "status":"OK",
+    "notes":"Source: Wikidata"
+  },
+  {
+    "city":"Florence",
+    "official_url":"https:\/\/www.comune.firenze.it\/\/",
+    "status":"OK",
+    "notes":"Source: Wikidata"
+  },
+  {
+    "city":"Guimarães",
+    "official_url":"https:\/\/theorangebackpack.nl\/portugal\/bezienswaardigheden-guimaraes\/",
+    "status":"NOT_FOUND",
+    "notes":"Best score below threshold: 0.60"
+  },
+  {
+    "city":"Heidelberg",
+    "official_url":"https:\/\/www.heidelberg.de\/hd\/HD.html",
+    "status":"OK",
+    "notes":"Source: Wikidata"
+  },
+  {
+    "city":"Ioannina",
+    "official_url":"https:\/\/www.grieksegids.nl\/epirus\/ioannina-stad.php",
+    "status":"OK",
+    "notes":"Source: Search, Score=0.95"
+  },
+  {
+    "city":"Izmir",
+    "official_url":"https:\/\/www.izmir.org\/",
+    "status":"NOT_FOUND",
+    "notes":"Best score below threshold: 0.55"
+  },
+  {
+    "city":"Kalamata",
+    "official_url":"https:\/\/www.kalamata.gr\/el\/",
+    "status":"OK",
+    "notes":"Source: Wikidata"
+  },
+  {
+    "city":"Kozani",
+    "official_url":"https:\/\/cityofkozani.gov.gr\/",
+    "status":"OK",
+    "notes":"Source: Wikidata"
+  },
+  {
+    "city":"Lappeenranta",
+    "official_url":"https:\/\/lappeenranta.fi\/fi",
+    "status":"OK",
+    "notes":"Source: Wikidata"
+  },
+  {
+    "city":"Lathi",
+    "official_url":"https:\/\/lathi.de",
+    "status":"OK",
+    "notes":"Source: Search, Score=0.80"
+  },
+  {
+    "city":"Leuven",
+    "official_url":"https:\/\/www.leuven.be\/",
+    "status":"OK",
+    "notes":"Source: Search, Score=1.00"
+  },
+  {
+    "city":"Liepaja",
+    "official_url":"https:\/\/www.liepaja.com\/",
+    "status":"NOT_FOUND",
+    "notes":"Best score below threshold: 0.55"
+  },
+  {
+    "city":"Limassol",
+    "official_url":"https:\/\/en.wikipedia.org\/wiki\/Limassol",
+    "status":"NOT_FOUND",
+    "notes":"Best score below threshold: 0.00"
+  },
+  {
+    "city":"Lisbon",
+    "official_url":"https:\/\/www.lisbon.org\/",
+    "status":"NOT_FOUND",
+    "notes":"Best score below threshold: 0.55"
+  },
+  {
+    "city":"Lyon",
+    "official_url":"https:\/\/www.lyon.fr\/",
+    "status":"OK",
+    "notes":"Source: Wikidata"
+  },
+  {
+    "city":"Parma",
+    "official_url":"https:\/\/www.comune.parma.it\/it",
+    "status":"OK",
+    "notes":"Source: Wikidata"
+  },
+  {
+    "city":"Pecs",
+    "official_url":"https:\/\/www.pecs.de\/",
+    "status":"OK",
+    "notes":"Source: Search, Score=0.80"
+  },
+  {
+    "city":"Tampere",
+    "official_url":"https:\/\/www.tampere.fi\/",
+    "status":"OK",
+    "notes":"Source: Wikidata"
+  },
+  {
+    "city":"Thessaloniki",
+    "official_url":"https:\/\/thessaloniki.gr\/",
+    "status":"OK",
+    "notes":"Source: Wikidata"
+  },
+  {
+    "city":"Turku",
+    "official_url":"https:\/\/www.turku.fi\/",
+    "status":"OK",
+    "notes":"Source: Wikidata"
+  },
+  {
+    "city":"Antwerp",
+    "official_url":"https:\/\/www.antwerpen.be\/",
+    "status":"OK",
+    "notes":"Source: Wikidata"
+  },
+  {
+    "city":"Gothenburg",
+    "official_url":"https:\/\/goteborg.se\/",
+    "status":"OK",
+    "notes":"Source: Wikidata"
+  },
+  {
+    "city":"Kranj",
+    "official_url":"https:\/\/www.kranj.si\/",
+    "status":"OK",
+    "notes":"Source: Wikidata"
+  },
+  {
+    "city":"Prato",
+    "official_url":"https:\/\/www.comune.prato.it\/",
+    "status":"OK",
+    "notes":"Source: Wikidata"
+  },
+  {
+    "city":"Milan",
+    "official_url":"https:\/\/www.milan118.com:6001\/",
+    "status":"OK",
+    "notes":"Source: Search, Score=1.00"
+  },
+  {
+    "city":"Porto",
+    "official_url":"https:\/\/www.cm-porto.pt\/",
+    "status":"OK",
+    "notes":"Source: Wikidata"
+  },
+  {
+    "city":"Ljubljana",
+    "official_url":"https:\/\/www.ljubljana.si\/",
+    "status":"OK",
+    "notes":"Source: Wikidata"
+  },
+  {
+    "city":"Aachen",
+    "official_url":"https:\/\/www.aachen.de\/",
+    "status":"OK",
+    "notes":"Source: Wikidata"
+  },
+  {
+    "city":"Bucharest",
+    "official_url":"https:\/\/www.pmb.ro\/",
+    "status":"OK",
+    "notes":"Source: Wikidata"
+  },
+  {
+    "city":"The Hague",
+    "official_url":"https:\/\/www.denhaag.nl\/nl\/",
+    "status":"OK",
+    "notes":"Source: Wikidata"
+  },
+  {
+    "city":"Bergamo",
+    "official_url":"https:\/\/www.comune.bergamo.it\/",
+    "status":"OK",
+    "notes":"Source: Wikidata"
+  },
+  {
+    "city":"Trikala",
+    "official_url":"https:\/\/trikalacity.gr\/",
+    "status":"OK",
+    "notes":"Source: Wikidata"
+  },
+  {
+    "city":"Dublin",
+    "official_url":"https:\/\/www.dublincity.ie\/",
+    "status":"OK",
+    "notes":"Source: Wikidata"
+  },
+  {
+    "city":"Gävle",
+    "official_url":"https:\/\/www.xn--gvle-loa.com\/",
+    "status":"NOT_FOUND",
+    "notes":"Best score below threshold: 0.35"
+  },
+  {
+    "city":"Umea",
+    "official_url":"https:\/\/www.umea.com\/",
+    "status":"NOT_FOUND",
+    "notes":"Best score below threshold: 0.55"
+  },
+  {
+    "city":"Miskolc",
+    "official_url":"https:\/\/www.miskolc.hu\/",
+    "status":"OK",
+    "notes":"Source: Wikidata"
+  },
+  {
+    "city":"Turin",
+    "official_url":"https:\/\/www.comune.torino.it\/",
+    "status":"OK",
+    "notes":"Source: Wikidata"
+  },
+  {
+    "city":"Bologna",
+    "official_url":"https:\/\/www.comune.bologna.it\/",
+    "status":"OK",
+    "notes":"Source: Wikidata"
+  },
+  {
+    "city":"Münster",
+    "official_url":"https:\/\/www.stadt-muenster.de\/startseite",
+    "status":"OK",
+    "notes":"Source: Wikidata"
+  },
+  {
+    "city":"Suceava",
+    "official_url":"https:\/\/www.suceava.com\/",
+    "status":"NOT_FOUND",
+    "notes":"Best score below threshold: 0.55"
+  },
+  {
+    "city":"Aarhus",
+    "official_url":"https:\/\/aarhus.dk\/",
+    "status":"OK",
+    "notes":"Source: Wikidata"
+  },
+  {
+    "city":"Athens",
+    "official_url":"https:\/\/www.athens.de\/",
+    "status":"OK",
+    "notes":"Source: Search, Score=0.80"
+  },
+  {
+    "city":"Bordeaux Metropole",
+    "official_url":"https:\/\/frankrijk.nl\/reistips-top15-zien-en-doen-bordeaux-stedentrip\/",
+    "status":"OK",
+    "notes":"Source: Search, Score=0.95"
+  },
+  {
+    "city":"Bristol",
+    "official_url":"https:\/\/www.bristol.gov.uk\/",
+    "status":"OK",
+    "notes":"Source: Wikidata"
+  },
+  {
+    "city":"Budapest",
+    "official_url":"https:\/\/www.budapesttips.nl\/bezienswaardigheden-boedapest\/",
+    "status":"OK",
+    "notes":"Source: Search, Score=0.80"
+  },
+  {
+    "city":"Copenhagen",
+    "official_url":"https:\/\/www.copenhagen.com\/",
+    "status":"NOT_FOUND",
+    "notes":"Best score below threshold: 0.55"
+  },
+  {
+    "city":"Cork",
+    "official_url":"https:\/\/www.corkcity.ie\/en\/",
+    "status":"OK",
+    "notes":"Source: Wikidata"
+  },
+  {
+    "city":"Dresden",
+    "official_url":"https:\/\/www.dresden.de\/index_de.php",
+    "status":"OK",
+    "notes":"Source: Wikidata"
+  },
+  {
+    "city":"Dunkerque",
+    "official_url":null,
+    "status":"NOT_FOUND",
+    "notes":"No candidate passed validation."
+  },
+  {
+    "city":"Gabrovo",
+    "official_url":"https:\/\/support.google.com\/youtube\/?hl=en",
+    "status":"NOT_FOUND",
+    "notes":"Best score below threshold: 0.35"
+  },
+  {
+    "city":"Glasgow",
+    "official_url":"https:\/\/www.glasgow.de\/",
+    "status":"OK",
+    "notes":"Source: Search, Score=0.80"
+  },
+  {
+    "city":"Grenoble Alpes",
+    "official_url":"https:\/\/www.grenoblealpes.com\/",
+    "status":"NOT_FOUND",
+    "notes":"Best score below threshold: 0.55"
+  },
+  {
+    "city":"Istanbul",
+    "official_url":"http:\/\/www.istanbul.gov.tr\/",
+    "status":"OK",
+    "notes":"Source: Wikidata"
+  },
+  {
+    "city":"Kosice",
+    "official_url":"https:\/\/www.kosice.org\/",
+    "status":"NOT_FOUND",
+    "notes":"Best score below threshold: 0.55"
+  },
+  {
+    "city":"Krakow",
+    "official_url":"https:\/\/krakow.com\/",
+    "status":"NOT_FOUND",
+    "notes":"Best score below threshold: 0.55"
+  },
+  {
+    "city":"Leipzig",
+    "official_url":"https:\/\/www.leipzig.de\/",
+    "status":"OK",
+    "notes":"Source: Wikidata"
+  },
+  {
+    "city":"Liberec",
+    "official_url":"https:\/\/open.spotify.com\/playlist\/7opHRsTKnI3Gn5HdEkQ1mK",
+    "status":"NOT_FOUND",
+    "notes":"Best score below threshold: 0.35"
+  },
+  {
+    "city":"Lund",
+    "official_url":"https:\/\/lund.eu\/\/",
+    "status":"OK",
+    "notes":"Source: Search, Score=0.70"
+  },
+  {
+    "city":"Nantes Metropole",
+    "official_url":null,
+    "status":"NOT_FOUND",
+    "notes":"No candidate passed validation."
+  },
+  {
+    "city":"Oslo",
+    "official_url":"https:\/\/www.zhihu.com\/tardis\/zm\/art\/684754114",
+    "status":"NOT_FOUND",
+    "notes":"Best score below threshold: 0.35"
+  },
+  {
+    "city":"Padova",
+    "official_url":"https:\/\/www.comune.padova.it\/",
+    "status":"OK",
+    "notes":"Source: Wikidata"
+  },
+  {
+    "city":"Paris",
+    "official_url":"https:\/\/www.paris.com\/",
+    "status":"NOT_FOUND",
+    "notes":"Best score below threshold: 0.55"
+  },
+  {
+    "city":"Reykjavik",
+    "official_url":"https:\/\/www.reykjavik.de\/",
+    "status":"MULTIPLE",
+    "notes":"Source: Search, Multiple good candidates, best score=0.80, second=0.70"
+  },
+  {
+    "city":"Riga",
+    "official_url":"https:\/\/www.riga.lv\/lv",
+    "status":"OK",
+    "notes":"Source: Wikidata"
+  },
+  {
+    "city":"Rzeszow",
+    "official_url":"https:\/\/xrzeszow.pl\/",
+    "status":"OK",
+    "notes":"Source: Search, Score=0.80"
+  },
+  {
+    "city":"Sofia",
+    "official_url":"https:\/\/sofia-airport.eu\/en\/",
+    "status":"OK",
+    "notes":"Source: Search, Score=1.00"
+  },
+  {
+    "city":"Stavanger",
+    "official_url":null,
+    "status":"NOT_FOUND",
+    "notes":"No candidate passed validation."
+  },
+  {
+    "city":"Taurage",
+    "official_url":"https:\/\/www.taurage.com\/",
+    "status":"NOT_FOUND",
+    "notes":"Best score below threshold: 0.55"
+  },
+  {
+    "city":"Trondheim",
+    "official_url":"https:\/\/www.trondheim.kommune.no\/",
+    "status":"OK",
+    "notes":"Source: Wikidata"
+  },
+  {
+    "city":"Velenje",
+    "official_url":"https:\/\/www.velenje.si\/",
+    "status":"OK",
+    "notes":"Source: Wikidata"
+  },
+  {
+    "city":"Vilnius",
+    "official_url":"https:\/\/vilnius.com\/",
+    "status":"NOT_FOUND",
+    "notes":"Best score below threshold: 0.55"
+  },
+  {
+    "city":"Warsaw",
+    "official_url":null,
+    "status":"NOT_FOUND",
+    "notes":"No candidate passed validation."
+  },
+  {
+    "city":"Wroclaw",
+    "official_url":"https:\/\/wroclaw.de",
+    "status":"OK",
+    "notes":"Source: Search, Score=0.80"
+  },
+  {
+    "city":"Łódź",
+    "official_url":"https:\/\/uml.lodz.pl\/",
+    "status":"OK",
+    "notes":"Source: Wikidata"
+  },
+  {
+    "city":"Dijon Metropole",
+    "official_url":null,
+    "status":"NOT_FOUND",
+    "notes":"No candidate passed validation."
+  }
+]
