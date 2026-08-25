@@ -7,7 +7,6 @@ from dataclasses import dataclass
 from pathlib import Path
 from random import uniform
 from typing import List, Optional, TypedDict
-from urllib.parse import urlparse
 
 import pandas as pd
 import requests
@@ -15,9 +14,6 @@ from bs4 import BeautifulSoup
 from ddgs import DDGS
 
 from .constants import (
-    COUNTRY_TLD_MAP,
-    EUROPEAN_CC_TLDS,
-    GOVERNMENT_TLDS,
     SCORE_THRESHOLD,
     USER_AGENT,
 )

@@ -1,6 +1,7 @@
 """Debug script to inspect Wikidata SPARQL responses."""
 
 import json
+
 import requests
 
 USER_AGENT = (
@@ -66,12 +67,12 @@ LIMIT 1
         print(f"\n❌ Request failed: {e}")
         return
     
-    print(f"\n--- HTTP RESPONSE ---")
+    print("\n--- HTTP RESPONSE ---")
     print(f"Status Code: {response.status_code}")
     print(f"Content-Type: {response.headers.get('content-type')}")
     
     if response.status_code != 200:
-        print(f"\n❌ Non-200 status code")
+        print("\n❌ Non-200 status code")
         print(f"Response text: {response.text[:500]}")
         return
     
@@ -82,7 +83,7 @@ LIMIT 1
         print(f"Response text: {response.text[:500]}")
         return
     
-    print(f"\n--- PARSED JSON ---")
+    print("\n--- PARSED JSON ---")
     print(json.dumps(data, indent=2, ensure_ascii=False))
     
     bindings = data.get("results", {}).get("bindings", [])

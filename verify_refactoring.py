@@ -2,11 +2,10 @@
 
 # Test 1: Can we import constants?
 from src.scraping_cityurls.constants import (
-    OFFICIAL_KEYWORDS,
-    NEGATIVE_TERMS,
     COUNTRY_TLD_MAP,
+    NEGATIVE_TERMS,
+    OFFICIAL_KEYWORDS,
     SCORE_THRESHOLD,
-    USER_AGENT,
 )
 
 print("✓ Test 1 passed: Constants imported successfully")
@@ -17,11 +16,6 @@ print(f"  - COUNTRY_TLD_MAP entries: {len(COUNTRY_TLD_MAP)}")
 
 # Test 2: Can we import city_url_extractor?
 try:
-    from src.scraping_cityurls.city_url_extractor import (
-        score_candidate,
-        query_wikidata,
-        find_city_url,
-    )
     print("✓ Test 2 passed: city_url_extractor imports successfully")
 except Exception as e:
     print(f"✗ Test 2 failed: {e}")

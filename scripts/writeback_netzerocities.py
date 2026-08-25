@@ -4,7 +4,6 @@ from pathlib import Path
 
 import pandas as pd
 
-
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 INPUT_EXCEL = PROJECT_ROOT / "data" / "netzerocities.xlsx"
 RESULTS_CSV = PROJECT_ROOT / "output" / "city_urls.csv"

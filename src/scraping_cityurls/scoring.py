@@ -1,5 +1,3 @@
-from __future__ import annotations
-
 """Scoring strategies for evaluating candidate city URLs.
 
 This module implements Refactoring Phase B: the monolithic ``score_candidate``
@@ -10,9 +8,11 @@ The goal of this refactor is to preserve the existing scoring behaviour as
 weitgehend wie möglich, aber jede Regel klar zu kapseln.
 """
 
+from __future__ import annotations
+
 from dataclasses import dataclass
 from typing import List, Optional, Protocol
-from urllib.parse import urlparse, ParseResult
+from urllib.parse import ParseResult, urlparse
 
 from .constants import (
     AIRPORT_KEYWORDS,
@@ -26,7 +26,6 @@ from .constants import (
     RELIGIOUS_KEYWORDS,
     UNIVERSITY_KEYWORDS,
 )
-
 
 HARD_REJECT = -1000.0
 
